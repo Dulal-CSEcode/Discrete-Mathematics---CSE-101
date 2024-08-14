@@ -24,7 +24,7 @@ Welcome to the Discrete Mathematics CSE-101 repository. This repository contains
 
 In this course, we will cover the fundamental concepts of Discrete Mathematics CSE-103, including logic, set theory, functions, mathematical induction, graph theory, and more. The repository provides a comprehensive guide to understanding and applying these principles through problem-solving.
 
-Check out the playlist now and start your learning journey: [ Playlis Link ](https://youtube.com/playlist?list=PLEc-WcPXUsjsm4_JTG3Pvc7wgva-cx3yQ&si=gipLEXV_A_A8tfdd)
+Check out the playlist now and start your learning journey: [ Playlis Link ](https://youtube.com/playlist?list=PLEc-WcPXUsjuZyBh8ofWRW4QvKDhjmpYk&si=1bJMDC1fiyBbgkg8)
 **Happy Learning!**
 
 In this course, we will cover the fundamental concepts of Discrete-Mathematics---CSE-101, including logic, set theory, functions, mathematical induction, graph theory, and more. The repository provides a comprehensive guide to understanding and applying these principles through problem-solving.
