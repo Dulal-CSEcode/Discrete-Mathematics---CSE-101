@@ -1,13 +1,13 @@
 # Discrete-Mathematics---CSE-101
 
 <h1 align="center">--- Discrete-Mathematics-CSE-101 ---</h1>  
-<h3 align="center">-- fALL 2021 --</h3>  
+<h3 align="center">-- Fall 2021 --</h3>  
 <br />  
-Welcome to the Discrete Mathematics CSE-103 repository. This repository contains course materials, assignments, and resources for the Discrete Mathematics CSE-103 course.  
+Welcome to the Discrete Mathematics CSE-101 repository. This repository contains course materials, assignments, and resources for the Discrete Mathematics CSE-103 course.  
 <br />  
 <img/>
 
-![Structured Programming](structuredprogrammingbanner.PNG)
+![Discrete Mathematics](cse101banner.PNG)
   
 <br />  
 
