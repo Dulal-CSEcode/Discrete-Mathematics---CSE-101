@@ -7,7 +7,7 @@ Welcome to the Discrete Mathematics CSE-101 repository. This repository contains
 <br />  
 <img/>
 
-![Discrete Mathematics](cse101banner.PNG)
+![Discrete Mathematics](cse101 banner.PNG)
   
 <br />  
 
