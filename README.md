@@ -1,4 +1,3 @@
-# Discrete-Mathematics---CSE-101
 
 <h1 align="center">--- Discrete-Mathematics-CSE-101 ---</h1>  
 <h3 align="center">-- Fall 2021 --</h3>  
